@@ -2,12 +2,22 @@
 # GreenCircuit ♻️
 E waste Facility Locator & Recycling Platform ♻️
 
-A i-nnovate Hackathon by intelliswift Finalist Project **Team Spam Byte From Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.**
-
-**Update** : Won The Position of **Second Runner** Up & 30 K price in hackathon at [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) By [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**
-
-
-[Prototype Video](https://youtu.be/3IN58Qo_FvA)
+The amount of electronic garbage generated in the modern world is growing quickly, and 
+inappropriate disposal is creating environmental problems. Our initiative presents a cutting
+edge platform that assists users in finding local e-waste recycling facilities and learning 
+appropriate disposal techniques.  
+Discarded electronic equipment, such as computers, cell phones, televisions, and 
+household appliances, is referred to as electronic garbage, or e-waste. Because e-waste 
+contains hazardous substances including lead, cadmium, and mercury, incorrect disposal can 
+have serious negative effects on the environment and human health.  
+GreenCircuit serves as a reliable middleman, helping people and companies locate 
+accredited recycling facilities for the appropriate disposal of e-waste. This lowers pollution 
+and promotes sustainability by guaranteeing that electronic trash is treated in an eco-friendly 
+way. 
+Features like e-waste pickup scheduling, real-time facility location tracking, educational 
+materials, and incentive-based recycling programs are all integrated into the platform. 
+GreenCircuit wants to promote a community that values appropriate waste management by 
+making e-waste recycling easy and effective.
 
 ## Setup
 
